@@ -1,0 +1,11 @@
+folder pages
+Apartment.jsx - แสดงห้องว่างที่มี / มีวันที่ เดือน การเข้าอยู่หอ
+FloorPlan.jsx - แสดงขนาดห้อง / จำนวนห้องที่มีเหลือ
+LeaseTerms.jsx - สัญญาการเช่าหอ / เลือกระยะการเช่า
+Quote.jsx - แจ้งราคาทุกส่วน
+
+folder components หลักๆจะมี 2 file
+
+RoomList.jsx - แสดงจำนวนขนาดห้อง
+StepProgress.jsx - เอาไว้เชื่อมไปยัง page ต่างๆ
+
